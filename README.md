@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vistad
-- 👀 I’m interested in software test automation
+- 👀 I’m interested in software test automation with Selenium WebDriver
 - 🌱 I’m currently working with Python and Java test automation environments
 
 <!---
